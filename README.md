@@ -1,0 +1,2 @@
+# MMVC_Trainer_Support_VBScript
+MMVC_Trainerで機械学習するのに役立つかと思い、支援ツールをVBScriptで書いてみました。
