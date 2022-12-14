@@ -18,7 +18,7 @@ MMVC_Trainerで機械学習するのに役立つかと思い、支援ツール�
 
 # インストール方法
 
-音声ファイルの操作にはffmpegを使用しますので、ffmpegをダウンロードして、スクリプトファイル(.vbs)と同じフォルダにffmpeg.exeとffprobe.exeを設置してください。
+音声ファイルの操作にはffmpegを使用しますので、ffmpegをダウンロードして、スクリプトファイル(.vbs)と同じフォルダにffmpeg.exeとffprobe.exeを設置してください。また「text」「wav」「src」を作成してください。
 
 # Usage
 
