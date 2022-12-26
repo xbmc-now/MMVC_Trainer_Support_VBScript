@@ -9,7 +9,7 @@ MMVC_Trainerで機械学習するのに役立つかと思い、支援ツールをVBScriptで書いてみまし
 1. katakana.vbs: テキストファイルの中からカタカナの使用数を調べてリストアップ。
 2. duration.vbs: WAVファイルの長さが範囲内かを調べてリストアップ。
 3. encode.vbs: 音声ファイルを機械学習用にエンコード。
-4. encode.vbs: テキストファイルと同名の音声ファイルをコピー
+4. favcopy.vbs: テキストファイルと同名の音声ファイルをコピー
 
 
 # 必須条件 / Requirement
